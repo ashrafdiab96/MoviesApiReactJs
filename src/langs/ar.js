@@ -1,0 +1,15 @@
+export const arLang = {
+    'movieName': 'اسم الفيلم',
+    'movieDate': 'تاريخ الفيلم',
+    'movieRateCount': 'عدد المقيمين',
+    'movieRating': 'التقييم',
+    'story': 'القصة',
+    'movieStory': 'قصة الفيلم',
+    'movieShow': 'مشاهدة الفيلم',
+    'backHome': 'عودة للرئيسية',
+    'search': 'ابحث',
+    'wantedLang': 'English',
+    'next': 'التالي',
+    'prev': 'السابق',
+    'noData': 'لا توجد بيانات',
+};

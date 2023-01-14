@@ -1,0 +1,15 @@
+export const enLang = {
+    'movieName': 'movie name',
+    'movieDate': 'movie date',
+    'movieRateCount': 'rate count',
+    'movieRating': 'rating',
+    'story': 'the story',
+    'movieStory': 'the movie story',
+    'movieShow': 'show movie',
+    'backHome': 'back home',
+    'search': 'search',
+    'wantedLang': 'العربية',
+    'next': 'next',
+    'prev': 'previous',
+    'noData': 'there is no data',
+};
